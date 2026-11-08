@@ -1,0 +1,21 @@
+# Run `lefthook install` to enable the hook.
+# Requires uv, Prettier, and Topiary. Topiary’s first run also needs Git and a C compiler.
+pre-commit:
+  parallel: true
+  jobs:
+    - name: python
+      run: uvx isort {staged_files} && uvx black {staged_files}
+      glob: "*.py"
+      stage_fixed: true
+    - name: prettier
+      run: prettier --write {staged_files}
+      glob: "*.{md,json,yml,yaml}"
+      stage_fixed: true
+    - name: clang-format
+      run: uvx clang-format -i {staged_files}
+      glob: "*.{c,cpp,h,hpp}"
+      stage_fixed: true
+    - name: topiary
+      run: topiary format {staged_files}
+      glob: "*.m"
+      stage_fixed: true

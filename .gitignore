@@ -1,0 +1,6 @@
+/work/
+/data/published/*
+!/data/published/sources.json
+__pycache__/
+*.py[cod]
+.DS_Store

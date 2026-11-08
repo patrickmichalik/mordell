@@ -1,0 +1,11 @@
+--- a/src/modules/thue.c
++++ b/src/modules/thue.c
+@@ -919,7 +919,7 @@
+ 
+         if (! (Q = GuessQi(BS->delta, BS->lambda, &ep)) ) break;
+ 
+-        denbound = addii(floorr(B0), absi_shallow(gel(Q,1)));
++        denbound = addii(myfloor(B0), absi_shallow(gel(Q,1)));
+         q = denom_i( bestappr(BS->delta, denbound) );
+         l0 = subrr(errnum(BS->delta, q), ep);
+         if (signe(l0) <= 0) break;

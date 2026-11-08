@@ -1,0 +1,186 @@
+{
+  "retrieved": "2026-11-01",
+  "index_url": "https://personal.math.ubc.ca/~bennett/BeGa-data.html",
+  "tables": [
+    {
+      "file": "negative-01.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/0-10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 0,
+      "upper_inclusive": 1000000,
+      "bytes": 3399701,
+      "sha256": "5ad1afe4b3f64fbebfc8939e297782392c0b04d544d51d2a50f97732b44ab903"
+    },
+    {
+      "file": "negative-02.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/10%5E6-2%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 1000000,
+      "upper_inclusive": 2000000,
+      "bytes": 3201513,
+      "sha256": "835829d38083550f3072c4f3eb4dac469e1ac45a104b18b475798aa78c1522ee"
+    },
+    {
+      "file": "negative-03.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/2%2A10%5E6-3%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 2000000,
+      "upper_inclusive": 3000000,
+      "bytes": 2973974,
+      "sha256": "d6e6b55efd94880266ecf029637f0a4a851b3b92f391e238fbee0f71d141869b"
+    },
+    {
+      "file": "negative-04.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/3%2A10%5E6-4%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 3000000,
+      "upper_inclusive": 4000000,
+      "bytes": 2828060,
+      "sha256": "3bbe72532eb392245934337bd9f06b4ea1a0fc68a3deb8010a889a068f21346b"
+    },
+    {
+      "file": "negative-05.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/4%2A10%5E6-5%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 4000000,
+      "upper_inclusive": 5000000,
+      "bytes": 2740688,
+      "sha256": "dff4d04f3522bb00490a112119e2f1e79ef70a346b218ee2200a8215e20bd642"
+    },
+    {
+      "file": "negative-06.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/5%2A10%5E6-6%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 5000000,
+      "upper_inclusive": 6000000,
+      "bytes": 2657240,
+      "sha256": "8d1253476a7fa9c3ed1b6039d4e9d94203bc2af35fe33b56a9bd8d7ea0fb579e"
+    },
+    {
+      "file": "negative-07.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/6%2A10%5E6-7%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 6000000,
+      "upper_inclusive": 7000000,
+      "bytes": 2588953,
+      "sha256": "f757392a2d51469e2cf99244ff2c6c3ba4ee1af4d94aea551dbe151b2993e0da"
+    },
+    {
+      "file": "negative-08.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/7%2A10%5E6-8%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 7000000,
+      "upper_inclusive": 8000000,
+      "bytes": 2544014,
+      "sha256": "ac6040e4144d5b51dca8b7c9cac48f87976dbda5978211f425e38d7054ffc257"
+    },
+    {
+      "file": "negative-09.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/8%2A10%5E6-9%2A10%5E6.pdf",
+      "sign": -1,
+      "lower_exclusive": 8000000,
+      "upper_inclusive": 9000000,
+      "bytes": 2496641,
+      "sha256": "6f2b3c427adec1fe814406fa30360856eebb4db4ecc410cb21fc10ec613fc778"
+    },
+    {
+      "file": "negative-10.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/9%2A10%5E6-10%5E7.pdf",
+      "sign": -1,
+      "lower_exclusive": 9000000,
+      "upper_inclusive": 10000000,
+      "bytes": 2454452,
+      "sha256": "c46be49768fb5cf49897695dc923e11665e24130a2fa806ef1266d7b20b11f1a"
+    },
+    {
+      "file": "positive-01.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/0-10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 0,
+      "upper_inclusive": 1000000,
+      "bytes": 6520979,
+      "sha256": "5ee7772c7a1f7dfbc468fd6a5333f49bce69817f994d784324197b9fab68b235"
+    },
+    {
+      "file": "positive-02.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/10%5E6-2%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 1000000,
+      "upper_inclusive": 2000000,
+      "bytes": 4744516,
+      "sha256": "942d1abd37f1f6de26403adc0a25c6304c8ef0160a61b51c5ca91cf5a64dfe7c"
+    },
+    {
+      "file": "positive-03.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/2%2A10%5E6-3%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 2000000,
+      "upper_inclusive": 3000000,
+      "bytes": 4418227,
+      "sha256": "ac09be9b01cbc71e0505004b4f9feedf8bea100d71bb51441388109ea8e405fb"
+    },
+    {
+      "file": "positive-04.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/3%2A10%5E6-4%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 3000000,
+      "upper_inclusive": 4000000,
+      "bytes": 4207101,
+      "sha256": "f59e55c81e8eaa6c87537728c7681cf01baafb4c5d02ccae8475dd8c0fb4305e"
+    },
+    {
+      "file": "positive-05.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/4%2A10%5E6-5%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 4000000,
+      "upper_inclusive": 5000000,
+      "bytes": 4058514,
+      "sha256": "89ab3b15365437383c4ee621b560954fe6b4d597e4b412d1cc1dc7f2f8cf8f7c"
+    },
+    {
+      "file": "positive-06.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/5%2A10%5E6-6%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 5000000,
+      "upper_inclusive": 6000000,
+      "bytes": 3908445,
+      "sha256": "0c83dd90ef392bf2bf5eb2000bab1a5558ca4d129a655a68fbabd1ed5e6fc6aa"
+    },
+    {
+      "file": "positive-07.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/6%2A10%5E6-7%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 6000000,
+      "upper_inclusive": 7000000,
+      "bytes": 4213408,
+      "sha256": "32f16b42451e523105928676c2e4cb9991dec5b99683c9919bcda7fc7db87fd1"
+    },
+    {
+      "file": "positive-08.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/7%2A10%5E6-8%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 7000000,
+      "upper_inclusive": 8000000,
+      "bytes": 4125705,
+      "sha256": "f417e6db67dd8b47250a1c151f5024a82ece1a84a04424704de975e971c47889"
+    },
+    {
+      "file": "positive-09.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/8%2A10%5E6-9%2A10%5E6n.pdf",
+      "sign": 1,
+      "lower_exclusive": 8000000,
+      "upper_inclusive": 9000000,
+      "bytes": 3690241,
+      "sha256": "9b539ff991a6b943c88cc727e84c90fb9fafca855515465bf1c8d007d0300baf"
+    },
+    {
+      "file": "positive-10.pdf",
+      "url": "https://personal.math.ubc.ca/~bennett/9%2A10%5E6-10%5E7n.pdf",
+      "sign": 1,
+      "lower_exclusive": 9000000,
+      "upper_inclusive": 10000000,
+      "bytes": 3836348,
+      "sha256": "48c3e087988a8d0231de301743f6aa05e53567abe1ddd7eac4e50049d540a202"
+    }
+  ]
+}

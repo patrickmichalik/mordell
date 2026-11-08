@@ -1,0 +1,2988 @@
+[
+  {
+    "k": -8000000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[200, 0]]
+  },
+  {
+    "k": -7000000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [200, 1000],
+      [3200, 181000]
+    ]
+  },
+  {
+    "k": -4000000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [200, 2000],
+      [500, 11000]
+    ]
+  },
+  {
+    "k": -2000000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [129, 383],
+      [300, 5000]
+    ]
+  },
+  {
+    "k": -1000000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[100, 0]]
+  },
+  {
+    "k": -600000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[136, 1384]]
+  },
+  {
+    "k": -10000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[25, 75]]
+  },
+  {
+    "k": 1001876,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[5, 1001]]
+  },
+  {
+    "k": 1003941,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-65, 854],
+      [627, 15732]
+    ]
+  },
+  {
+    "k": 1004300,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-74, 774]]
+  },
+  {
+    "k": 1005431,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-55, 916]]
+  },
+  {
+    "k": 1007512,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[42, 1040]]
+  },
+  {
+    "k": 1016576,
+    "published_affine_points": 20,
+    "corrected_affine_points": 22,
+    "corrected_points_y_nonnegative": [
+      [-95, 399],
+      [-76, 760],
+      [-40, 976],
+      [-8, 1008],
+      [49, 1065],
+      [152, 2128],
+      [532, 12312],
+      [760, 20976],
+      [2297, 110093],
+      [3892, 242808],
+      [20024, 2833520]
+    ]
+  },
+  {
+    "k": 1025312,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[17, 1015]]
+  },
+  {
+    "k": 1025325,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-89, 566],
+      [-21, 1008],
+      [231, 3654],
+      [5019, 355572]
+    ]
+  },
+  {
+    "k": 1025962,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-33, 995]]
+  },
+  {
+    "k": 1029996,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-98, 298]]
+  },
+  {
+    "k": 1030301,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-101, 0]]
+  },
+  {
+    "k": 1033405,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-21, 1012]]
+  },
+  {
+    "k": 1034964,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-75, 783]]
+  },
+  {
+    "k": 1035909,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-45, 972],
+      [63, 1134]
+    ]
+  },
+  {
+    "k": 1036800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-56, 928]]
+  },
+  {
+    "k": 1041012,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-83, 685]]
+  },
+  {
+    "k": 1044484,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1022],
+      [165, 2353]
+    ]
+  },
+  {
+    "k": 1046836,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [29, 1035],
+      [245, 3969]
+    ]
+  },
+  {
+    "k": 1047843,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[193, 2870]]
+  },
+  {
+    "k": 1051856,
+    "published_affine_points": 12,
+    "corrected_affine_points": 14,
+    "corrected_points_y_nonnegative": [
+      [-95, 441],
+      [-55, 941],
+      [52, 1092],
+      [260, 4316],
+      [364, 7020],
+      [3137, 175703],
+      [11257, 1194357]
+    ]
+  },
+  {
+    "k": 1053405,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-101, 152],
+      [-9, 1026]
+    ]
+  },
+  {
+    "k": 1056184,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-90, 572]]
+  },
+  {
+    "k": 1058000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[305, 5425]]
+  },
+  {
+    "k": 1059404,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-67, 871],
+      [-34, 1010],
+      [3350, 193898]
+    ]
+  },
+  {
+    "k": 1060900,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-99, 301],
+      [0, 1030],
+      [60, 1130],
+      [120, 1670],
+      [1236, 43466]
+    ]
+  },
+  {
+    "k": 1061208,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-102, 0]]
+  },
+  {
+    "k": 1063175,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[41, 1064]]
+  },
+  {
+    "k": 1063931,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[89, 1330]]
+  },
+  {
+    "k": 1066240,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-76, 792],
+      [84, 1288],
+      [161, 2289]
+    ]
+  },
+  {
+    "k": 1066388,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-67, 875]]
+  },
+  {
+    "k": 1068692,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[77, 1235]]
+  },
+  {
+    "k": 1068793,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-57, 940],
+      [-18, 1031]
+    ]
+  },
+  {
+    "k": 1069200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[16, 1036]]
+  },
+  {
+    "k": 1069300,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[101, 1449]]
+  },
+  {
+    "k": 1072148,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[53, 1105]]
+  },
+  {
+    "k": 1073296,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1036],
+      [65, 1161]
+    ]
+  },
+  {
+    "k": 1081573,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[3, 1040]]
+  },
+  {
+    "k": 1087655,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-91, 578]]
+  },
+  {
+    "k": 1090936,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-63, 917],
+      [-10, 1044],
+      [1442, 54768]
+    ]
+  },
+  {
+    "k": 1092416,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-100, 304]]
+  },
+  {
+    "k": 1092727,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-103, 0]]
+  },
+  {
+    "k": 1093500,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-99, 351],
+      [-35, 1025],
+      [90, 1350],
+      [306, 5454]
+    ]
+  },
+  {
+    "k": 1098134,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-77, 801]]
+  },
+  {
+    "k": 1101128,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[113, 1595]]
+  },
+  {
+    "k": 1101416,
+    "published_affine_points": 10,
+    "corrected_affine_points": 12,
+    "corrected_points_y_nonnegative": [
+      [-58, 952],
+      [122, 1708],
+      [305, 5429],
+      [1094, 36200],
+      [3962, 249388],
+      [211670, 97384304]
+    ]
+  },
+  {
+    "k": 1101824,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-80, 768],
+      [-47, 999],
+      [73, 1221],
+      [176, 2560]
+    ]
+  },
+  {
+    "k": 1104125,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-85, 700]]
+  },
+  {
+    "k": 1104192,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-23, 1045]]
+  },
+  {
+    "k": 1113874,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[15, 1057]]
+  },
+  {
+    "k": 1115173,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-97, 450]]
+  },
+  {
+    "k": 1116752,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-103, 155],
+      [-52, 988]
+    ]
+  },
+  {
+    "k": 1119744,
+    "published_affine_points": 10,
+    "corrected_affine_points": 14,
+    "corrected_points_y_nonnegative": [
+      [-92, 584],
+      [-72, 864],
+      [36, 1080],
+      [40, 1088],
+      [225, 3537],
+      [360, 6912],
+      [293688, 159158304]
+    ]
+  },
+  {
+    "k": 1124550,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-101, 307]]
+  },
+  {
+    "k": 1124864,
+    "published_affine_points": 4,
+    "corrected_affine_points": 5,
+    "corrected_points_y_nonnegative": [
+      [-104, 0],
+      [65, 1183],
+      [88, 1344]
+    ]
+  },
+  {
+    "k": 1128256,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-36, 1040]]
+  },
+  {
+    "k": 1129175,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-11, 1062],
+      [341, 6386]
+    ]
+  },
+  {
+    "k": 1130652,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-78, 810],
+      [-51, 999],
+      [178, 2602],
+      [4618, 313822]
+    ]
+  },
+  {
+    "k": 1131325,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-69, 896]]
+  },
+  {
+    "k": 1134675,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-59, 964]]
+  },
+  {
+    "k": 1146717,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[27, 1080]]
+  },
+  {
+    "k": 1149200,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-104, 156],
+      [64, 1188],
+      [104, 1508],
+      [11024, 1157468]
+    ]
+  },
+  {
+    "k": 1151064,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [73, 1241],
+      [138, 1944],
+      [2190, 102492]
+    ]
+  },
+  {
+    "k": 1152457,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-93, 590]]
+  },
+  {
+    "k": 1157308,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-102, 310],
+      [66, 1202],
+      [117, 1661]
+    ]
+  },
+  {
+    "k": 1157625,
+    "published_affine_points": 8,
+    "corrected_affine_points": 9,
+    "corrected_points_y_nonnegative": [
+      [-105, 0],
+      [-104, 181],
+      [70, 1225],
+      [84, 1323],
+      [32970, 5986575]
+    ]
+  },
+  {
+    "k": 1159340,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-91, 637],
+      [14, 1078]
+    ]
+  },
+  {
+    "k": 1163678,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-37, 1055],
+      [3107, 173189]
+    ]
+  },
+  {
+    "k": 1163800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-79, 819]]
+  },
+  {
+    "k": 1164240,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-84, 756],
+      [1, 1079],
+      [364, 7028]
+    ]
+  },
+  {
+    "k": 1168128,
+    "published_affine_points": 10,
+    "corrected_affine_points": 14,
+    "corrected_points_y_nonnegative": [
+      [-104, 208],
+      [-39, 1053],
+      [-12, 1080],
+      [52, 1144],
+      [88, 1360],
+      [312, 5616],
+      [6292, 499096]
+    ]
+  },
+  {
+    "k": 1168576,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-60, 976],
+      [37572, 7282768]
+    ]
+  },
+  {
+    "k": 1169728,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-87, 715],
+      [-63, 959],
+      [252, 4144],
+      [37358076, 228337242448]
+    ]
+  },
+  {
+    "k": 1170325,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-49, 1026]]
+  },
+  {
+    "k": 1175056,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1084],
+      [360, 6916]
+    ]
+  },
+  {
+    "k": 1177225,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-105, 140],
+      [0, 1085],
+      [39, 1112],
+      [186, 2759]
+    ]
+  },
+  {
+    "k": 1177709,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-25, 1078]]
+  },
+  {
+    "k": 1179549,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[151, 2150]]
+  },
+  {
+    "k": 1180980,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-99, 459]]
+  },
+  {
+    "k": 1182589,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-105, 158]]
+  },
+  {
+    "k": 1183316,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[125, 1771]]
+  },
+  {
+    "k": 1185800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-94, 596],
+      [254, 4192]
+    ]
+  },
+  {
+    "k": 1190696,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-103, 313]]
+  },
+  {
+    "k": 1191016,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-106, 0]]
+  },
+  {
+    "k": 1197584,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-80, 828],
+      [320, 5828]
+    ]
+  },
+  {
+    "k": 1198800,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-71, 917],
+      [36, 1116],
+      [396, 7956]
+    ]
+  },
+  {
+    "k": 1199772,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-38, 1070],
+      [18, 1098],
+      [953514, 931087746]
+    ]
+  },
+  {
+    "k": 1203125,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-61, 988]]
+  },
+  {
+    "k": 1203685,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[51, 1156]]
+  },
+  {
+    "k": 1205604,
+    "published_affine_points": 10,
+    "corrected_affine_points": 12,
+    "corrected_points_y_nonnegative": [
+      [-27, 1089],
+      [0, 1098],
+      [13, 1099],
+      [6588, 534726],
+      [24400, 3811402],
+      [28548, 4823514]
+    ]
+  },
+  {
+    "k": 1207801,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-105, 224],
+      [-13, 1098],
+      [0, 1099],
+      [28574, 4830105]
+    ]
+  },
+  {
+    "k": 1219779,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-95, 602]]
+  },
+  {
+    "k": 1224720,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-104, 316],
+      [9, 1107],
+      [144, 2052]
+    ]
+  },
+  {
+    "k": 1225043,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-107, 0]]
+  },
+  {
+    "k": 1226178,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-9, 1107],
+      [63, 1215]
+    ]
+  },
+  {
+    "k": 1232010,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-81, 837],
+      [351, 6669],
+      [55159, 12954617]
+    ]
+  },
+  {
+    "k": 1235624,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[38, 1136]]
+  },
+  {
+    "k": 1236544,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-39, 1085],
+      [0, 1112]
+    ]
+  },
+  {
+    "k": 1237869,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-89, 730],
+      [-57, 1026],
+      [475, 10412]
+    ]
+  },
+  {
+    "k": 1238328,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-62, 1000]]
+  },
+  {
+    "k": 1241460,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-51, 1053]]
+  },
+  {
+    "k": 1245456,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1116],
+      [112, 1628]
+    ]
+  },
+  {
+    "k": 1247389,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[75, 1292]]
+  },
+  {
+    "k": 1248200,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-79, 869],
+      [-14, 1116]
+    ]
+  },
+  {
+    "k": 1249325,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-101, 468]]
+  },
+  {
+    "k": 1249925,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-1, 1118]]
+  },
+  {
+    "k": 1250000,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-100, 500],
+      [25, 1125],
+      [100, 1500],
+      [244, 3972],
+      [1100, 36500]
+    ]
+  },
+  {
+    "k": 1250964,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-107, 161]]
+  },
+  {
+    "k": 1252672,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[12, 1120]]
+  },
+  {
+    "k": 1254004,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-27, 1111],
+      [333, 6179]
+    ]
+  },
+  {
+    "k": 1254400,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-96, 608],
+      [0, 1120],
+      [420, 8680]
+    ]
+  },
+  {
+    "k": 1259386,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-105, 319]]
+  },
+  {
+    "k": 1259712,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-108, 0]]
+  },
+  {
+    "k": 1267084,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-82, 846]]
+  },
+  {
+    "k": 1268861,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-73, 938]]
+  },
+  {
+    "k": 1273597,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [87, 1390],
+      [939, 28796]
+    ]
+  },
+  {
+    "k": 1274000,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-40, 1100],
+      [56, 1204],
+      [560, 13300]
+    ]
+  },
+  {
+    "k": 1274191,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-63, 1012]]
+  },
+  {
+    "k": 1289331,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-15, 1134]]
+  },
+  {
+    "k": 1289669,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-97, 614]]
+  },
+  {
+    "k": 1294700,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-106, 322]]
+  },
+  {
+    "k": 1294947,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[37, 1160]]
+  },
+  {
+    "k": 1295029,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-109, 0]]
+  },
+  {
+    "k": 1300550,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[11, 1141]]
+  },
+  {
+    "k": 1302812,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-83, 855],
+      [98, 1498],
+      [154, 2226]
+    ]
+  },
+  {
+    "k": 1304236,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [62, 1242],
+      [102, 1538]
+    ]
+  },
+  {
+    "k": 1306357,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[207, 3190]]
+  },
+  {
+    "k": 1308596,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-91, 745]]
+  },
+  {
+    "k": 1310720,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-64, 1024],
+      [164, 2392]
+    ]
+  },
+  {
+    "k": 1312146,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-41, 1115]]
+  },
+  {
+    "k": 1315277,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-53, 1080]]
+  },
+  {
+    "k": 1315845,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[99, 1512]]
+  },
+  {
+    "k": 1320256,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-103, 477],
+      [140, 2016]
+    ]
+  },
+  {
+    "k": 1320980,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[341, 6401]]
+  },
+  {
+    "k": 1321925,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-109, 164]]
+  },
+  {
+    "k": 1325592,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-98, 620],
+      [798, 22572]
+    ]
+  },
+  {
+    "k": 1330668,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-107, 325],
+      [-74, 962],
+      [1702, 70226]
+    ]
+  },
+  {
+    "k": 1331000,
+    "published_affine_points": 2,
+    "corrected_affine_points": 3,
+    "corrected_points_y_nonnegative": [
+      [-110, 0],
+      [19090, 2637600]
+    ]
+  },
+  {
+    "k": 1331200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-16, 1152]]
+  },
+  {
+    "k": 1333125,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-29, 1144]]
+  },
+  {
+    "k": 1338676,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-3, 1157]]
+  },
+  {
+    "k": 1339200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-84, 864],
+      [49, 1207]
+    ]
+  },
+  {
+    "k": 1341556,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-75, 959]]
+  },
+  {
+    "k": 1347921,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-108, 297],
+      [-65, 1036],
+      [0, 1161],
+      [172, 2537],
+      [1134, 38205]
+    ]
+  },
+  {
+    "k": 1349047,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[137, 1980]]
+  },
+  {
+    "k": 1349244,
+    "published_affine_points": 10,
+    "corrected_affine_points": 12,
+    "corrected_points_y_nonnegative": [
+      [-75, 963],
+      [-62, 1054],
+      [10, 1162],
+      [186, 2790],
+      [690, 18162],
+      [3858, 239634]
+    ]
+  },
+  {
+    "k": 1350988,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-99, 617],
+      [-42, 1130],
+      [222, 3506],
+      [114861, 38927713]
+    ]
+  },
+  {
+    "k": 1355200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[36, 1184]]
+  },
+  {
+    "k": 1356733,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[23, 1170]]
+  },
+  {
+    "k": 1362175,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-99, 626]]
+  },
+  {
+    "k": 1367296,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-108, 328],
+      [-63, 1057],
+      [84, 1400],
+      [105, 1589]
+    ]
+  },
+  {
+    "k": 1367631,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-111, 0]]
+  },
+  {
+    "k": 1373813,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-17, 1170]]
+  },
+  {
+    "k": 1376254,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-109, 285],
+      [-85, 873]
+    ]
+  },
+  {
+    "k": 1379052,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[222, 3510]]
+  },
+  {
+    "k": 1380344,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[86, 1420]]
+  },
+  {
+    "k": 1381957,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-93, 760]]
+  },
+  {
+    "k": 1383380,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[61, 1269]]
+  },
+  {
+    "k": 1385800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-66, 1048]]
+  },
+  {
+    "k": 1390532,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-52, 1118],
+      [-43, 1145],
+      [104, 1586]
+    ]
+  },
+  {
+    "k": 1391290,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[111, 1661]]
+  },
+  {
+    "k": 1391824,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-55, 1107],
+      [60, 1268]
+    ]
+  },
+  {
+    "k": 1393821,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-105, 486]]
+  },
+  {
+    "k": 1395520,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-111, 167],
+      [-84, 896],
+      [924, 28112]
+    ]
+  },
+  {
+    "k": 1398760,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[9, 1183]]
+  },
+  {
+    "k": 1399424,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-100, 632]]
+  },
+  {
+    "k": 1401856,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-111, 185],
+      [0, 1184],
+      [192, 2912],
+      [17760, 2366816]
+    ]
+  },
+  {
+    "k": 1403992,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [138, 2008],
+      [398, 8028],
+      [3009, 165061]
+    ]
+  },
+  {
+    "k": 1404590,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-109, 331]]
+  },
+  {
+    "k": 1404928,
+    "published_affine_points": 6,
+    "corrected_affine_points": 7,
+    "corrected_points_y_nonnegative": [
+      [-112, 0],
+      [-28, 1176],
+      [57, 1261],
+      [336, 6272]
+    ]
+  },
+  {
+    "k": 1413980,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-86, 882],
+      [61, 1281],
+      [106, 1614],
+      [149, 2173]
+    ]
+  },
+  {
+    "k": 1415120,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-76, 988],
+      [-31, 1177]
+    ]
+  },
+  {
+    "k": 1416389,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[35, 1208]]
+  },
+  {
+    "k": 1416933,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-77, 980]]
+  },
+  {
+    "k": 1417176,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-18, 1188]]
+  },
+  {
+    "k": 1420049,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [50, 1243],
+      [398, 8029]
+    ]
+  },
+  {
+    "k": 1424363,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-67, 1060],
+      [41, 1222]
+    ]
+  },
+  {
+    "k": 1430541,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-5, 1196]]
+  },
+  {
+    "k": 1430784,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-44, 1160],
+      [73, 1349]
+    ]
+  },
+  {
+    "k": 1436108,
+    "published_affine_points": 4,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-58, 1114],
+      [62, 1294],
+      [398, 8030],
+      [574083998, 13755081320210]
+    ]
+  },
+  {
+    "k": 1437345,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-104, 559],
+      [-101, 638],
+      [159406, 63643931]
+    ]
+  },
+  {
+    "k": 1442401,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1201],
+      [399, 8060]
+    ]
+  },
+  {
+    "k": 1442556,
+    "published_affine_points": 12,
+    "corrected_affine_points": 14,
+    "corrected_points_y_nonnegative": [
+      [-110, 334],
+      [-38, 1178],
+      [114, 1710],
+      [285, 4959],
+      [589, 14345],
+      [1122, 37602],
+      [584948589, 14147397189945]
+    ]
+  },
+  {
+    "k": 1442897,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-113, 0]]
+  },
+  {
+    "k": 1449104,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[8, 1204]]
+  },
+  {
+    "k": 1452169,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[398, 8031]]
+  },
+  {
+    "k": 1452384,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-87, 891]]
+  },
+  {
+    "k": 1458000,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-95, 775],
+      [-36, 1188],
+      [180, 2700]
+    ]
+  },
+  {
+    "k": 1461295,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-79, 984],
+      [-19, 1206]
+    ]
+  },
+  {
+    "k": 1463616,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-68, 1072],
+      [60, 1296]
+    ]
+  },
+  {
+    "k": 1466964,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[21, 1215]]
+  },
+  {
+    "k": 1468232,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[398, 8032]]
+  },
+  {
+    "k": 1470068,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-107, 495]]
+  },
+  {
+    "k": 1471149,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-57, 1134]]
+  },
+  {
+    "k": 1471750,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-45, 1175]]
+  },
+  {
+    "k": 1471797,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-113, 170],
+      [19, 1216]
+    ]
+  },
+  {
+    "k": 1475944,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-102, 644],
+      [-42, 1184],
+      [225, 3587]
+    ]
+  },
+  {
+    "k": 1478520,
+    "published_affine_points": 14,
+    "corrected_affine_points": 16,
+    "corrected_points_y_nonnegative": [
+      [-111, 333],
+      [-74, 1036],
+      [34, 1232],
+      [249, 4113],
+      [481, 10619],
+      [546, 12816],
+      [1554, 61272],
+      [2454, 121572]
+    ]
+  },
+  {
+    "k": 1478741,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[47, 1258]]
+  },
+  {
+    "k": 1481200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-111, 337]]
+  },
+  {
+    "k": 1481544,
+    "published_affine_points": 6,
+    "corrected_affine_points": 7,
+    "corrected_points_y_nonnegative": [
+      [-114, 0],
+      [-110, 388],
+      [190, 2888],
+      [9633, 945459]
+    ]
+  },
+  {
+    "k": 1484297,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-86, 921],
+      [398, 8033]
+    ]
+  },
+  {
+    "k": 1488375,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[85, 1450]]
+  },
+  {
+    "k": 1491472,
+    "published_affine_points": 10,
+    "corrected_affine_points": 12,
+    "corrected_points_y_nonnegative": [
+      [-88, 900],
+      [-31, 1209],
+      [113, 1713],
+      [144, 2116],
+      [248, 4092],
+      [1488, 57412]
+    ]
+  },
+  {
+    "k": 1495040,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-79, 1001]]
+  },
+  {
+    "k": 1500037,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-33, 1210]]
+  },
+  {
+    "k": 1500282,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [7, 1225],
+      [63, 1323]
+    ]
+  },
+  {
+    "k": 1500364,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[398, 8034]]
+  },
+  {
+    "k": 1503565,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-69, 1084],
+      [3591, 215194]
+    ]
+  },
+  {
+    "k": 1506176,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-103, 643],
+      [-20, 1224],
+      [172, 2568]
+    ]
+  },
+  {
+    "k": 1510322,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[287, 5015]]
+  },
+  {
+    "k": 1513436,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-46, 1190],
+      [365, 7081]
+    ]
+  },
+  {
+    "k": 1515227,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-103, 650]]
+  },
+  {
+    "k": 1516433,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[398, 8035]]
+  },
+  {
+    "k": 1520528,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-112, 340],
+      [-88, 916],
+      [776, 21652]
+    ]
+  },
+  {
+    "k": 1520875,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-115, 0]]
+  },
+  {
+    "k": 1524733,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[123, 1840]]
+  },
+  {
+    "k": 1525568,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-7, 1235]]
+  },
+  {
+    "k": 1531250,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-89, 909],
+      [175, 2625]
+    ]
+  },
+  {
+    "k": 1532504,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[398, 8036]]
+  },
+  {
+    "k": 1536773,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-97, 790]]
+  },
+  {
+    "k": 1538636,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[110, 1694]]
+  },
+  {
+    "k": 1541599,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[33, 1256]]
+  },
+  {
+    "k": 1544216,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-70, 1096]]
+  },
+  {
+    "k": 1544950,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[59, 1323]]
+  },
+  {
+    "k": 1548800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[136, 2016]]
+  },
+  {
+    "k": 1549045,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-109, 504]]
+  },
+  {
+    "k": 1550804,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-115, 173]]
+  },
+  {
+    "k": 1551825,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-21, 1242]]
+  },
+  {
+    "k": 1552300,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-114, 266],
+      [6, 1246],
+      [2166, 100814]
+    ]
+  },
+  {
+    "k": 1553300,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-59, 1161]]
+  },
+  {
+    "k": 1555200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-104, 656]]
+  },
+  {
+    "k": 1555848,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-98, 784],
+      [-47, 1205],
+      [1666, 68012]
+    ]
+  },
+  {
+    "k": 1560546,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-113, 343]]
+  },
+  {
+    "k": 1560896,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-116, 0]]
+  },
+  {
+    "k": 1567952,
+    "published_affine_points": 10,
+    "corrected_affine_points": 12,
+    "corrected_points_y_nonnegative": [
+      [-116, 84],
+      [68, 1372],
+      [97, 1575],
+      [172, 2580],
+      [473, 10363],
+      [1204, 41796]
+    ]
+  },
+  {
+    "k": 1571724,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-90, 918],
+      [126, 1890],
+      [133, 1981],
+      [305550, 168897582]
+    ]
+  },
+  {
+    "k": 1575925,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-81, 1022]]
+  },
+  {
+    "k": 1579014,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [163, 2431],
+      [171, 2565]
+    ]
+  },
+  {
+    "k": 1580741,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [19, 1260],
+      [7519, 651990]
+    ]
+  },
+  {
+    "k": 1585575,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-71, 1108]]
+  },
+  {
+    "k": 1587924,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-35, 1243],
+      [13, 1261],
+      [325, 5993]
+    ]
+  },
+  {
+    "k": 1595869,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-105, 662]]
+  },
+  {
+    "k": 1597696,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1264],
+      [84, 1480]
+    ]
+  },
+  {
+    "k": 1598248,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-103, 711],
+      [-22, 1260]
+    ]
+  },
+  {
+    "k": 1598992,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-111, 481],
+      [-48, 1220],
+      [888, 26492]
+    ]
+  },
+  {
+    "k": 1599696,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[177, 2673]]
+  },
+  {
+    "k": 1601260,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-114, 346]]
+  },
+  {
+    "k": 1601613,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-117, 0]]
+  },
+  {
+    "k": 1605164,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[5, 1267]]
+  },
+  {
+    "k": 1605632,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-112, 448],
+      [-7, 1267],
+      [32, 1280],
+      [224, 3584],
+      [1988, 88648]
+    ]
+  },
+  {
+    "k": 1612900,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-91, 927],
+      [0, 1270]
+    ]
+  },
+  {
+    "k": 1618324,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-99, 805]]
+  },
+  {
+    "k": 1618925,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[71, 1406]]
+  },
+  {
+    "k": 1622356,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[45, 1309]]
+  },
+  {
+    "k": 1623805,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-9, 1274]]
+  },
+  {
+    "k": 1627388,
+    "published_affine_points": 12,
+    "corrected_affine_points": 14,
+    "corrected_points_y_nonnegative": [
+      [-38, 1254],
+      [-19, 1273],
+      [58, 1350],
+      [133, 1995],
+      [266, 4522],
+      [2002, 89586],
+      [17746, 2364018]
+    ]
+  },
+  {
+    "k": 1627648,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-72, 1120]]
+  },
+  {
+    "k": 1630205,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [379, 7488],
+      [571, 13704]
+    ]
+  },
+  {
+    "k": 1630800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-111, 513]]
+  },
+  {
+    "k": 1632589,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-117, 176]]
+  },
+  {
+    "k": 1637240,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-106, 668]]
+  },
+  {
+    "k": 1638325,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-61, 1188]]
+  },
+  {
+    "k": 1642676,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-115, 349],
+      [149, 2225]
+    ]
+  },
+  {
+    "k": 1642874,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-49, 1235]]
+  },
+  {
+    "k": 1643032,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-118, 0]]
+  },
+  {
+    "k": 1645451,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-23, 1278]]
+  },
+  {
+    "k": 1654784,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [-92, 936],
+      [80, 1472],
+      [208, 3264],
+      [1081, 35565]
+    ]
+  },
+  {
+    "k": 1658880,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[4, 1288]]
+  },
+  {
+    "k": 1659636,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-83, 1043]]
+  },
+  {
+    "k": 1670441,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-73, 1132],
+      [44, 1325],
+      [470, 10271]
+    ]
+  },
+  {
+    "k": 1670625,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[31, 1304]]
+  },
+  {
+    "k": 1678829,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-37, 1276]]
+  },
+  {
+    "k": 1679319,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-107, 674]]
+  },
+  {
+    "k": 1684800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-116, 352]]
+  },
+  {
+    "k": 1685159,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-119, 0]]
+  },
+  {
+    "k": 1687500,
+    "published_affine_points": 6,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-75, 1125],
+      [-50, 1250],
+      [109, 1727],
+      [150, 2250],
+      [9150, 875250]
+    ]
+  },
+  {
+    "k": 1693440,
+    "published_affine_points": 10,
+    "corrected_affine_points": 12,
+    "corrected_points_y_nonnegative": [
+      [-119, 91],
+      [-56, 1232],
+      [-24, 1296],
+      [84, 1512],
+      [616, 15344],
+      [6321, 502551]
+    ]
+  },
+  {
+    "k": 1697382,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-93, 945],
+      [43, 1333]
+    ]
+  },
+  {
+    "k": 1698112,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-52, 1248],
+      [17, 1305],
+      [1404, 52624]
+    ]
+  },
+  {
+    "k": 1702701,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-101, 820]]
+  },
+  {
+    "k": 1703572,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[237, 3875]]
+  },
+  {
+    "k": 1708313,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-4, 1307],
+      [83, 1510]
+    ]
+  },
+  {
+    "k": 1710936,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[57, 1377]]
+  },
+  {
+    "k": 1713454,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[3, 1309]]
+  },
+  {
+    "k": 1713960,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-74, 1144],
+      [54, 1368]
+    ]
+  },
+  {
+    "k": 1715381,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-113, 522],
+      [-61, 1220]
+    ]
+  },
+  {
+    "k": 1717200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-119, 179]]
+  },
+  {
+    "k": 1722112,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-108, 680],
+      [744, 20336]
+    ]
+  },
+  {
+    "k": 1725300,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-11, 1313]]
+  },
+  {
+    "k": 1726272,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-63, 1215],
+      [-36, 1296],
+      [108, 1728],
+      [369, 7209],
+      [8748, 818208]
+    ]
+  },
+  {
+    "k": 1727638,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-117, 355]]
+  },
+  {
+    "k": 1728000,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-120, 0]]
+  },
+  {
+    "k": 1732876,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-51, 1265]]
+  },
+  {
+    "k": 1736584,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[30, 1328]]
+  },
+  {
+    "k": 1740700,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-94, 954],
+      [26, 1326],
+      [429, 8983]
+    ]
+  },
+  {
+    "k": 1742221,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-25, 1314],
+      [507, 11492]
+    ]
+  },
+  {
+    "k": 1746221,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-85, 1064]]
+  },
+  {
+    "k": 1750329,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [0, 1323],
+      [135, 2052],
+      [490, 10927]
+    ]
+  },
+  {
+    "k": 1752976,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [0, 1324],
+      [440, 9324]
+    ]
+  },
+  {
+    "k": 1758211,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-75, 1156],
+      [417, 8618]
+    ]
+  },
+  {
+    "k": 1758245,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[191, 2954]]
+  },
+  {
+    "k": 1765625,
+    "published_affine_points": 16,
+    "corrected_affine_points": 18,
+    "corrected_points_y_nonnegative": [
+      [-109, 686],
+      [-100, 875],
+      [50, 1375],
+      [200, 3125],
+      [275, 4750],
+      [650, 16625],
+      [806, 22921],
+      [2324, 112043],
+      [10550, 1083625]
+    ]
+  },
+  {
+    "k": 1768892,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[2, 1330]]
+  },
+  {
+    "k": 1770093,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[43, 1360]]
+  },
+  {
+    "k": 1771196,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-118, 358]]
+  },
+  {
+    "k": 1771561,
+    "published_affine_points": 4,
+    "corrected_affine_points": 5,
+    "corrected_points_y_nonnegative": [
+      [-121, 0],
+      [0, 1331],
+      [242, 3993]
+    ]
+  },
+  {
+    "k": 1772800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-39, 1309]]
+  },
+  {
+    "k": 1779008,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-52, 1280]]
+  },
+  {
+    "k": 1783323,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[253, 4240]]
+  },
+  {
+    "k": 1784744,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-95, 963],
+      [170, 2588]
+    ]
+  },
+  {
+    "k": 1789952,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-103, 835]]
+  },
+  {
+    "k": 1791800,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-26, 1332]]
+  },
+  {
+    "k": 1795600,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-120, 260],
+      [0, 1340],
+      [56, 1404],
+      [201, 3149],
+      [2345, 113565]
+    ]
+  },
+  {
+    "k": 1802836,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-115, 531],
+      [4629, 314945]
+    ]
+  },
+  {
+    "k": 1803200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-76, 1168]]
+  },
+  {
+    "k": 1803515,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[29, 1352]]
+  },
+  {
+    "k": 1804685,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-121, 182]]
+  },
+  {
+    "k": 1809864,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-110, 692]]
+  },
+  {
+    "k": 1811860,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[69, 1463]]
+  },
+  {
+    "k": 1815480,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-119, 361]]
+  },
+  {
+    "k": 1815848,
+    "published_affine_points": 2,
+    "corrected_affine_points": 3,
+    "corrected_points_y_nonnegative": [
+      [-122, 0],
+      [1201, 41643]
+    ]
+  },
+  {
+    "k": 1817189,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-65, 1242]]
+  },
+  {
+    "k": 1819125,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[15, 1350]]
+  },
+  {
+    "k": 1820232,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[82, 1540]]
+  },
+  {
+    "k": 1825200,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[1, 1351]]
+  },
+  {
+    "k": 1825669,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[95, 1638]]
+  },
+  {
+    "k": 1825902,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-53, 1295]]
+  },
+  {
+    "k": 1829520,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-96, 972]]
+  },
+  {
+    "k": 1830101,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-13, 1352]]
+  },
+  {
+    "k": 1835728,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-87, 1085],
+      [36, 1372]
+    ]
+  },
+  {
+    "k": 1837888,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[108, 1760]]
+  },
+  {
+    "k": 1842183,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-27, 1350],
+      [361, 6992]
+    ]
+  },
+  {
+    "k": 1844164,
+    "published_affine_points": 6,
+    "corrected_affine_points": 8,
+    "corrected_points_y_nonnegative": [
+      [0, 1358],
+      [140, 2142],
+      [221, 3555],
+      [485, 10767]
+    ]
+  },
+  {
+    "k": 1848933,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-77, 1180]]
+  },
+  {
+    "k": 1849372,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[162, 2470]]
+  },
+  {
+    "k": 1854835,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-111, 698]]
+  },
+  {
+    "k": 1860496,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-120, 364],
+      [0, 1364]
+    ]
+  },
+  {
+    "k": 1860867,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-123, 0]]
+  },
+  {
+    "k": 1869885,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-41, 1342]]
+  },
+  {
+    "k": 1871424,
+    "published_affine_points": 14,
+    "corrected_affine_points": 16,
+    "corrected_points_y_nonnegative": [
+      [-95, 1007],
+      [-72, 1224],
+      [0, 1368],
+      [28, 1376],
+      [76, 1520],
+      [720, 19368],
+      [1368, 50616],
+      [9576, 937080]
+    ]
+  },
+  {
+    "k": 1872720,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[121, 1909]]
+  },
+  {
+    "k": 1873564,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-54, 1310]]
+  },
+  {
+    "k": 1875034,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-105, 847],
+      [-97, 981],
+      [95, 1653]
+    ]
+  },
+  {
+    "k": 1880125,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-105, 850]]
+  },
+  {
+    "k": 1881386,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[55, 1431]]
+  },
+  {
+    "k": 1882384,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[0, 1372]]
+  },
+  {
+    "k": 1893213,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-117, 540]]
+  },
+  {
+    "k": 1893376,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-28, 1368],
+      [0, 1376],
+      [9632, 945312]
+    ]
+  },
+  {
+    "k": 1895092,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-123, 185],
+      [93, 1643]
+    ]
+  },
+  {
+    "k": 1895416,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-78, 1192]]
+  },
+  {
+    "k": 1897352,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [322, 5940],
+      [1538, 60332],
+      [6818, 562972]
+    ]
+  },
+  {
+    "k": 1900544,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-112, 704],
+      [-64, 1280],
+      [320, 5888]
+    ]
+  },
+  {
+    "k": 1906250,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-121, 367],
+      [-25, 1375]
+    ]
+  },
+  {
+    "k": 1906624,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-124, 0]]
+  },
+  {
+    "k": 1911124,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-67, 1269]]
+  },
+  {
+    "k": 1921292,
+    "published_affine_points": 8,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-98, 990],
+      [-67, 1273],
+      [278, 4838],
+      [469, 10251],
+      [5494, 407226]
+    ]
+  },
+  {
+    "k": 1922000,
+    "published_affine_points": 6,
+    "corrected_affine_points": 10,
+    "corrected_points_y_nonnegative": [
+      [-124, 124],
+      [-55, 1325],
+      [41, 1411],
+      [620, 15500],
+      [34844, 6504172]
+    ]
+  },
+  {
+    "k": 1928205,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-89, 1106]]
+  },
+  {
+    "k": 1933459,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[81, 1570]]
+  },
+  {
+    "k": 1938256,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-15, 1391],
+      [852, 24908],
+      [1140, 38516]
+    ]
+  },
+  {
+    "k": 1940317,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[27, 1400]]
+  },
+  {
+    "k": 1940450,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-1, 1393]]
+  },
+  {
+    "k": 1942655,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-79, 1204]]
+  },
+  {
+    "k": 1943828,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[13, 1395]]
+  },
+  {
+    "k": 1945385,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-29, 1386]]
+  },
+  {
+    "k": 1946997,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-113, 710],
+      [387, 7740]
+    ]
+  },
+  {
+    "k": 1952748,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-122, 370]]
+  },
+  {
+    "k": 1953125,
+    "published_affine_points": 0,
+    "corrected_affine_points": 1,
+    "corrected_points_y_nonnegative": [[-125, 0]]
+  },
+  {
+    "k": 1953640,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [26, 1404],
+      [134, 2088]
+    ]
+  },
+  {
+    "k": 1968300,
+    "published_affine_points": 0,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-99, 999],
+      [54, 1458]
+    ]
+  },
+  {
+    "k": 1970132,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-43, 1375]]
+  },
+  {
+    "k": 1971216,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-56, 1340],
+      [0, 1404],
+      [2457, 121797]
+    ]
+  },
+  {
+    "k": 1973268,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-107, 865]]
+  },
+  {
+    "k": 1986560,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-119, 549],
+      [-16, 1408],
+      [496, 11136]
+    ]
+  },
+  {
+    "k": 1988469,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-125, 188]]
+  },
+  {
+    "k": 1989806,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[107, 1793]]
+  },
+  {
+    "k": 1990656,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-80, 1216]]
+  },
+  {
+    "k": 1990805,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[419, 8692]]
+  },
+  {
+    "k": 1994200,
+    "published_affine_points": 4,
+    "corrected_affine_points": 6,
+    "corrected_points_y_nonnegative": [
+      [-114, 716],
+      [-39, 1391],
+      [234, 3848]
+    ]
+  },
+  {
+    "k": 1998216,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-30, 1404]]
+  },
+  {
+    "k": 1999404,
+    "published_affine_points": 0,
+    "corrected_affine_points": 2,
+    "corrected_points_y_nonnegative": [[-2, 1414]]
+  },
+  {
+    "k": 1999996,
+    "published_affine_points": 2,
+    "corrected_affine_points": 4,
+    "corrected_points_y_nonnegative": [
+      [-123, 373],
+      [762, 21082]
+    ]
+  }
+]
